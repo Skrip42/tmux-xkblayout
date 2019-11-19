@@ -3,8 +3,8 @@ show current locale, CapsLock and NumLock in your status bar.
 
 ### Installation
 - install xkeyboard-check: https://github.com/Skrip42/xkeyboard-check
-- clone the repo: git clone https://github.com/Skrip42/tmux-xkblayout.git ~/clone/path
-- add this line in your .tmux.conf: run-shell ~/clone/path/xkblayout.tmux
+- clone the repo: `git clone https://github.com/Skrip42/tmux-xkblayout.git ~/clone/path`
+- add this line in your .tmux.conf: `run-shell ~/clone/path/xkblayout.tmux`
 - reload tmux environment
 
 ### Usage
